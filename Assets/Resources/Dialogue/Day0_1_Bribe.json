@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[[{"->":"choice_1"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"choice_1":["^部分鬼魂会尝试<color=red>贿赂</color>判官大人，大人可以选择<color=red>收取或者归还贿赂</color>。","#","^Layout:Left","/#","\n","^请大人在最终审判之前<color=red>先处理贿赂款项</color>。","#","^Layout:Left","/#","\n","end","end",{"#f":1}],"global decl":["ev",0,{"VAR=":"choice"},"/ev","end",null],"#f":1}],"listDefs":{}}

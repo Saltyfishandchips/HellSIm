@@ -1,0 +1,68 @@
+// 审查阶段证物询问
+VAR choice = 0
+    {
+        -choice == 1:  
+            -> choice_1  
+        -choice == 2:  
+            -> choice_2 
+        -choice == 3:
+            -> choice_3
+        -choice == 4:
+            -> choice_4 
+        -choice == 5:  
+            -> choice_5 
+        -choice == 6:
+            -> choice_6
+        -choice == 7:
+            -> choice_7
+    }  
+  
+== choice_1
+这个，我没见过，也不清楚。有什么问题吗？ #Layout:Left
+
+* 是在月铃休息室发现的毒酒。 #Layout:Right
+
+是毒酒吗？……这，我不知道，但应该是<color=red>何任舒</color>的手笔。#Layout:Left
+    ->END
+  
+== choice_2
+……阁下真是御下有道，鄙人的私物也被搜出来了。  #Layout:Left
+
+这是月铃私下送我的方巾，当时鄙人经常去看她的演出，彼此也有一些音乐上的交流。她应该是会错意了，某天脸红着将这条亲手绣制的方巾送给了我。  #Layout:Left #CE:ED_5
+    ->END
+
+== choice_3
+这花是歌迷送给月铃的吧。即使我的订婚宴上都是社会名流，也有很多是她的粉丝。#Layout:Left 
+*何以见得？#Layout:Right
+
+演出结束后献花的人如潮水般向舞台涌去，而月铃一贯也对粉丝很亲切，会耐心地与每一位献花者交流探讨、接受意见。 #Layout:Left 
+    ->c3_1
+
+== c3_1==
+*听上去她是一个很谦虚的人。 #Layout:Right
+是的。不过，今日比较反常，月铃亲手收了一两个幸运儿的花束，然后<color=red>很快就回后台</color>了，其它的花束是他们歌舞团的杂役代收的。 #Layout:Left 
+    ->END
+    
+== choice_4
+月铃今日在现场演出的这首歌，比起唱片<color=red>更加精湛</color>。#Layout:Left 
+
+虽然不好意思，但鄙人猜测，应该是因为我与何任舒订婚，她想要引起我的注意所致。 #Layout:Left 
+
+曲中的情谊缱绻缠绵，令人难以忽视。  #Layout:Left 
+
+唉，就算成为她的<color=red>绝唱</color>，也不枉此生了……#Layout:Left 
+    ->END
+
+== choice_5
+哪个名流没有点不清不楚的露水情缘呢？鄙人怜惜月铃对我的情谊，虽然知道不可能有所回应，却还是于心不忍常答应去见她，想必何任舒也能理解，直至……咳，受到军政部长的敲打。 #Layout:Left
+    ->END
+    
+== choice_6
+这是什么玩意儿。#Layout:Left
+    ->END
+
+== choice_7
+我没特意观察过它，这样看起来有点怪。#Layout:Left
+    ->END
+    
+->END

@@ -1,0 +1,50 @@
+﻿[
+  {
+    "id": 6.0,
+    "day": 1.0,
+    "idx": 1.0,
+    "npcName": "李小玫",
+    "npcRace": "人族",
+    "spriteName": "李小玫"
+  },
+  {
+    "id": 4.0,
+    "day": 1.0,
+    "idx": 2.0,
+    "npcName": "李捷",
+    "npcRace": "人族",
+    "spriteName": "李捷"
+  },
+  {
+    "id": 5.0,
+    "day": 1.0,
+    "idx": 3.0,
+    "npcName": "星雨",
+    "npcRace": "人族",
+    "spriteName": "崔二"
+  },
+  {
+    "id": 2.0,
+    "day": 1.0,
+    "idx": 4.0,
+    "npcName": "怀特-布兰特",
+    "npcRace": "人族",
+    "spriteName": "怀特布兰特"
+  },
+  {
+    "id": 3.0,
+    "day": 1.0,
+    "idx": 5.0,
+    "npcName": "关镇",
+    "npcRace": "人族",
+    "spriteName": "关三柱"
+  },
+  {
+    "id": 1.0,
+    "day": 1.0,
+    "idx": 6.0,
+    "npcName": "薛怀逸",
+    "npcRace": "人族",
+    "spriteName": "薛怀逸"
+  }
+]

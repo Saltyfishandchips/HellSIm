@@ -1,0 +1,128 @@
+[
+    {
+        "day": "1",
+        "id": "1",
+        "idx": "1",
+        "npcName": "薛怀逸",
+        "npcResult": "1",
+        "evidenceDifference": "14",
+        "PaperDifference": "0"
+    },
+    {
+        "day": "1",
+        "id": "2",
+        "idx": "2",
+        "npcName": "怀特-布兰特",
+        "npcResult": "2",
+        "evidenceDifference": "70",
+        "PaperDifference": "16"
+    },
+    {
+        "day": "1",
+        "id": "3",
+        "idx": "3",
+        "npcName": "关三柱",
+        "npcResult": "1",
+        "evidenceDifference": "51",
+        "PaperDifference": "1"
+    },
+    {
+        "day": "1",
+        "id": "4",
+        "idx": "4",
+        "npcName": "李捷",
+        "npcResult": "1",
+        "evidenceDifference": "130",
+        "PaperDifference": "4"
+    },
+    {
+        "day": "1",
+        "id": "5",
+        "idx": "5",
+        "npcName": "崔二",
+        "npcResult": "1",
+        "evidenceDifference": "472",
+        "PaperDifference": "4"
+    },
+    {
+        "day": "1",
+        "id": "6",
+        "idx": "6",
+        "npcName": "李小玫",
+        "npcResult": "1",
+        "evidenceDifference": "0",
+        "PaperDifference": "1"
+    },
+    {
+        "day": "2",
+        "id": "1",
+        "idx": "7",
+        "npcName": "刘平",
+        "npcResult": "1",
+        "evidenceDifference": "31",
+        "PaperDifference": "0"
+    },
+    {
+        "day": "2",
+        "id": "2",
+        "idx": "8",
+        "npcName": "宋知年",
+        "npcResult": "1",
+        "evidenceDifference": "2",
+        "PaperDifference": "8"
+    },
+    {
+        "day": "2",
+        "id": "3",
+        "idx": "9",
+        "npcName": "何任舒",
+        "npcResult": "1",
+        "evidenceDifference": "21",
+        "PaperDifference": "8"
+    },
+    {
+        "day": "2",
+        "id": "4",
+        "idx": "10",
+        "npcName": "金晤",
+        "npcResult": "2",
+        "evidenceDifference": "278",
+        "PaperDifference": "24"
+    },
+    {
+        "day": "2",
+        "id": "5",
+        "idx": "11",
+        "npcName": "蔓露",
+        "npcResult": "1",
+        "evidenceDifference": "265",
+        "PaperDifference": "5"
+    },
+    {
+        "day": "2",
+        "id": "6",
+        "idx": "12",
+        "npcName": "月铃",
+        "npcResult": "1",
+        "evidenceDifference": "0",
+        "PaperDifference": "17"
+    },
+    {
+        "day": "2",
+        "id": "7",
+        "idx": "13",
+        "npcName": "白无常",
+        "npcResult": "1",
+        "evidenceDifference": "0",
+        "PaperDifference": "0"
+    },
+    {
+        "day": "0",
+        "id": "1",
+        "idx": "0",
+        "npcName": "黑无常",
+        "npcResult": "1",
+        "evidenceDifference": "2",
+        "PaperDifference": "5"
+    }
+]

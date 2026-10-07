@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[[{"->":"choice_1"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"choice_1":["^...Your Honor, could you let me go back? I’m sure I can start from scratch again! I will definitely repay your great kindness then.","#","^Layout:Left","/#","\n","end","end",{"#f":1}],"global decl":["ev",0,{"VAR=":"choice"},"/ev","end",null],"#f":1}],"listDefs":{}}

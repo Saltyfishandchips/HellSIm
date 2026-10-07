@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[[{"->":"choice_1"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"choice_1":["^判官大人您好，我们…我们怎么又见面了？刘某的手续，应该没什么问题吧？","#","^Layout:Left","/#","\n","end","end",{"#f":1}],"global decl":["ev",0,{"VAR=":"choice"},"/ev","end",null],"#f":1}],"listDefs":{}}

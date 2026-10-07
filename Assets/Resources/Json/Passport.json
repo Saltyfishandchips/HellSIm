@@ -1,0 +1,98 @@
+﻿[
+  {
+    "id": 0.0,
+    "day": 0.0,
+    "idx": 1.0,
+    "npcName": "范无咎",
+    "npcRace": "神族",
+    "spriteName": "范无咎"
+  },
+  {
+    "id": 6.0,
+    "day": 1.0,
+    "idx": 1.0,
+    "npcName": "李小玫",
+    "npcRace": "人族",
+    "spriteName": "李小玫"
+  },
+  {
+    "id": 4.0,
+    "day": 1.0,
+    "idx": 2.0,
+    "npcName": "李捷",
+    "npcRace": "人族",
+    "spriteName": "李捷"
+  },
+  {
+    "id": 5.0,
+    "day": 1.0,
+    "idx": 3.0,
+    "npcName": "星雨",
+    "npcRace": "人族",
+    "spriteName": "崔二"
+  },
+  {
+    "id": 2.0,
+    "day": 1.0,
+    "idx": 4.0,
+    "npcName": "怀特-布兰特",
+    "npcRace": "人族",
+    "spriteName": "怀特·布兰特"
+  },
+  {
+    "id": 3.0,
+    "day": 1.0,
+    "idx": 5.0,
+    "npcName": "关镇",
+    "npcRace": "人族",
+    "spriteName": "关三柱"
+  },
+  {
+    "id": 1.0,
+    "day": 1.0,
+    "idx": 6.0,
+    "npcName": "薛怀逸",
+    "npcRace": "人族",
+    "spriteName": "薛怀逸"
+  },
+  {
+    "id": 7.0,
+    "day": 2.0,
+    "idx": 1.0,
+    "npcName": "刘平",
+    "npcRace": "人族",
+    "spriteName": "刘平"
+  },
+  {
+    "id": 8.0,
+    "day": 2.0,
+    "idx": 2.0,
+    "npcName": "宋知年",
+    "npcRace": "人族",
+    "spriteName": "宋知年"
+  },
+  {
+    "id": 11.0,
+    "day": 2.0,
+    "idx": 3.0,
+    "npcName": "蔓露",
+    "npcRace": "人族",
+    "spriteName": "蔓露"
+  },
+  {
+    "id": 12.0,
+    "day": 2.0,
+    "idx": 4.0,
+    "npcName": "月铃",
+    "npcRace": "人族",
+    "spriteName": "月铃"
+  },
+  {
+    "id": 9.0,
+    "day": 2.0,
+    "idx": 5.0,
+    "npcName": "何任舒",
+    "npcRace": "人族",
+    "spriteName": "何任舒"
+  }
+]

@@ -1,0 +1,163 @@
+﻿[
+  {
+    "id": 1.0,
+    "npcName": "薛怀逸",
+    "evidenceName": "寻人启事",
+    "sprite": "MissingPersonsColumn",
+    "describe": "贴在官府衙门前的几张泛黄纸张，内容均为寻找失踪村民的信息。<color=red>村民并未失踪而是收容在官府中。</color>"
+  },
+  {
+    "id": 2.0,
+    "npcName": "薛怀逸",
+    "evidenceName": "古旧的匾额",
+    "sprite": "Plaque",
+    "describe": "掉落在官府书房门旁，上面刻有“清正廉明”四个大字，右侧小字写“书于己酉年”。（1189年）。有被火焚烧的痕迹，左上角似乎染有一小片血迹。<color=red>三十年前西幽村赠送给薛进的。薛怀逸每月叫侍女取下擦灰。</color>\n"
+  },
+  {
+    "id": 3.0,
+    "npcName": "关三柱",
+    "evidenceName": "军刀",
+    "sprite": "Sword",
+    "describe": "一把遗落在花房的军刀，刀刃上光滑无痕，显然未曾经历过战斗。刀锋上隐约可见一丝血迹，似乎刚刚使用过。<color=red>是关三柱的刀，但不曾使用。</color>"
+  },
+  {
+    "id": 4.0,
+    "npcName": "薛怀逸",
+    "evidenceName": "两堆废料",
+    "sprite": "Scraps",
+    "describe": "两堆无用的黑灰堆积物，放置在花房的角落。一堆呈现出焦黑的颜色，内含有一些未完全燃烧的木炭残渣，另一堆则为一些细小的药材碎片。这些废料似乎是炼丹后遗留下的炉渣和药渣。<color=red>崔二说这是她堆在花房的肥料。</color>"
+  },
+  {
+    "id": 5.0,
+    "npcName": "崔二",
+    "evidenceName": "忘川花种子",
+    "sprite": "ClothBags",
+    "describe": "半满的精致皮袋，内容物正是地府失窃忘川花种子。种子呈现深褐色，表面微微泛着光泽，触感冰凉如霜。<color=red>好像是崔郎中的袋子。崔二称薛怀逸提供的种子。</color>"
+  },
+  {
+    "id": 6.0,
+    "npcName": "薛怀逸",
+    "evidenceName": "忘川花",
+    "sprite": "Flowers",
+    "describe": "一朵盛开的忘川花，呈现出迷人的血红色，花瓣似乎在微微闪烁，依然散发出独特的香气。外形与生长于地府黄泉路两侧的忘川花相同。<color=red>崔郎中负责在花房中种植。</color>"
+  },
+  {
+    "id": 7.0,
+    "npcName": "薛怀逸",
+    "evidenceName": "忘忧丹",
+    "sprite": "Pills",
+    "describe": "一小瓶精致的丹药，瓶身上写着“忘忧丹”三个字。丹药呈现朱红色，散发出一股清淡的忘川花香气。<color=red>好像没什么药用价值。崔二称薛怀逸用于自己增寿。</color>"
+  },
+  {
+    "id": 8.0,
+    "npcName": "怀特·布兰特",
+    "evidenceName": "忘忧丹丹方",
+    "sprite": "Pharmacy",
+    "describe": "一张手写的药方，出自薛怀逸之手，简单记载了制作忘忧丹的步骤和用料，旁边有布兰特写的外文备注。<color=red>丹方的主要成分忘川花，剩下的用料都没有药用价值。</color>"
+  },
+  {
+    "id": 9.0,
+    "npcName": "崔二",
+    "evidenceName": "带血的忘川花种子",
+    "sprite": "Seed",
+    "describe": "崔二提供的几颗忘川花种子，表面沾有已经干涸的血迹，显得异常诡异。<color=red>种子可以用鲜血催生出鳞茎，并在活人身上生根开花，人死后鳞茎也随之枯萎又化作石头状的种子。</color>"
+  },
+  {
+    "id": 10.0,
+    "npcName": "-",
+    "evidenceName": "毒酒杯",
+    "sprite": "WineGoblet",
+    "describe": "杯沿印有模糊口红印的高脚酒杯，杯中残留酒液含有毒成分。是何府招待宾客的酒杯，在月铃休息室中发现。<color=red>经蔓露指认，月铃曾在上台前用过此杯。</color>刘平喝时杯中酒液很满。"
+  },
+  {
+    "id": 11.0,
+    "npcName": "-",
+    "evidenceName": "口袋方巾",
+    "sprite": "PocketSquares",
+    "describe": "浅色缎面的口袋方巾，一角绣有同色的“铃兰醉蝉”纹案。<color=red>月铃的歌迷常以“铃兰”喻指她。此物由月铃在金晤的鼓励下，私下赠予宋知年。</color>"
+  },
+  {
+    "id": 12.0,
+    "npcName": "-",
+    "evidenceName": "花束",
+    "sprite": "FlowersBouquet",
+    "describe": "香气袭人的花束，但花枝凌乱，花瓣凋零，<color=red>没有用于固定的缎带。何任舒死前闻到过相同的花香。</color>"
+  },
+  {
+    "id": 13.0,
+    "npcName": "-",
+    "evidenceName": "唱片",
+    "sprite": "Record",
+    "describe": "刻录月铃代表作《春深清重》的唱片，问世一周便刷新了历史最高销量。<color=red>采用电音灌声技术，仅专业人士和狂热歌迷会有所了解。何任舒认为月铃成名归功于电音灌声技术。在此之前，蔓露代表作也破过销量记录。</color>"
+  },
+  {
+    "id": 14.0,
+    "npcName": "刘平",
+    "evidenceName": "小报",
+    "sprite": "Newspaper",
+    "describe": "写有歌星月铃与国正党高层宋知年花边新闻的小报。<color=red>此事之后，宋知年被民众熟知。何任舒并不在意此事。几月前，该出版社突然被查封。</color>"
+  },
+  {
+    "id": 15.0,
+    "npcName": "刘平",
+    "evidenceName": "刘平胎记采集",
+    "sprite": "LPBirthmark",
+    "describe": "刘平印记"
+  },
+  {
+    "id": 16.0,
+    "npcName": "宋知年",
+    "evidenceName": "宋知年胎记采集",
+    "sprite": "SZNBirthmark",
+    "describe": "宋知年印记"
+  },
+  {
+    "id": 17.0,
+    "npcName": "何任舒",
+    "evidenceName": "何任舒胎记采集",
+    "sprite": "HRSBirthmark",
+    "describe": "何任舒印记"
+  },
+  {
+    "id": 18.0,
+    "npcName": "金晤",
+    "evidenceName": "哑药酒杯",
+    "sprite": "DumbMedicineGlasses",
+    "describe": "盛有酒液的高脚杯，内含哑药。<color=red>金晤一早在月铃休息室发现，立即更换了干净的酒杯。蔓露看到此酒杯情绪激动。</color>"
+  },
+  {
+    "id": 19.0,
+    "npcName": "蔓露",
+    "evidenceName": "蔓露胎记采集",
+    "sprite": "MLBirthmark",
+    "describe": "蔓露印记"
+  },
+  {
+    "id": 20.0,
+    "npcName": "月铃",
+    "evidenceName": "月铃胎记采集",
+    "sprite": "YLBirthmark",
+    "describe": "月铃印记"
+  },
+  {
+    "id": 21.0,
+    "npcName": "白无常",
+    "evidenceName": "歌罗频伽鸟拓印",
+    "sprite": "Rubbing",
+    "describe": "绘有歌罗频伽鸟的石刻拓印，据说还是上一次类似事件时留存下来的。"
+  },
+  {
+    "id": 22.0,
+    "npcName": "范无咎",
+    "evidenceName": "判官手册",
+    "sprite": "Manual",
+    "describe": "记录判官职责、案件流程与审查要点的手册，供判官查阅，确保审案全阶段顺利进行。"
+  },
+  {
+    "id": 23.0,
+    "npcName": "范无咎",
+    "evidenceName": "白无常忏悔书",
+    "sprite": "Confession",
+    "describe": "白无常亲笔写下的忏悔书，描述了在黑无常溺亡的那天，他未及时返回的过失。<color=red>黑无常看到后，执念会减少</color>。"
+  }
+]

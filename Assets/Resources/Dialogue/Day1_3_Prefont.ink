@@ -1,0 +1,121 @@
+VAR deadCaues = false
+VAR identity = false
+VAR reason = false
+
+->Start
+
+=== Start ===
+下面进行预审调查。#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+请堂下陈述案件相关事实。#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+俺知道了。#Layout:Left #Name:关三柱 #Speaker:GSZ_Normal
+->Prefont
+
+== Prefont ==
+
+~ temp all_chosen =  deadCaues && identity && reason
+
+{all_chosen:
+询问结束，该去审核该人的路引信息了。 #Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    -> END
+- else:
+    （询问哪一点呢？）#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    * {reason == false} [询问案发时的事由]
+    <align="center"><color=red>===关三柱当日的事由===</color>#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    你案发时在干什么？#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    那天晚上，俺本来是在书房外守着老爷的。#Layout:Left #Name:关三柱 #Speaker:GSZ_Normal
+
+    突然瞅见<color=red>药房</color>那边有个<color=red>鬼鬼祟祟的身影</color>，俺怕是那个<color=red>洋鬼子</color>不好好炼丹，偷溜出来了，就过去看看情况。#Layout:Left  #CE:Text_description_在库房区巡逻 #Name:关三柱 #Speaker:GSZ_Normal
+    ->c9_1
+    
+    * {deadCaues == false} [询问此鬼死因]
+    <align="center"><color=red>===关三柱当日的死因===</color>#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    你可还记得你因何而死？#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    
+    老子不知道那个狗杂种<color=red>在府里放了把火</color>，烧到库房后那些烟火什戏就<color=red>爆炸了！</color>#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+
+    就那样一声巨响，天翻地覆，俺连个反应的机会都没有，就在库房被炸死了。#Layout:Left #CE:Text_deadcause_被炸死 #Name:关三柱 #Speaker:GSZ_Anger
+    ->c8_1
+
+    * {identity == false} [询问此鬼死前身份]
+    <align="center"><color=red>===关三柱死前的身份===</color>#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    你之前的身份是什么？#Layout:Right #Name:判官 #Speaker:GSZ_Normal
+    <color=red>俺叫关三柱，曾是个当兵的</color>，现在帮薛老爷干活。#Layout:Left #Name:关三柱 #Speaker:GSZ_Happy
+
+    薛老爷救过俺命，但俺是个粗人，没啥大本事，空会些拳脚功夫，只能<color=red>给薛老爷当个护院</color>，干些脏话累活。#Layout:Left #CE:Text_identity_官府护卫 #Name:关三柱 #Speaker:GSZ_Happy
+    <align="center"><color=red>---身份询问结束---</color>#Layout:Right #Name:判官 #Speaker:GSZ_Happy
+    ~ identity = true
+    -> StartTalk
+}
+
+== StartTalk ==
+    -> Prefont
+
+=== c8_1 ===
+*库房里为什么放着烟火？  #Layout:Right #Name:判官 #Speaker:GSZ_Anger
+ ->c8_2
+
+=== c8_2 ===
+哎，老爷这些个月足不出户，俺想着在府里也放放烟火<color=red>庆祝中秋节</color>，好让老爷高兴高兴。#Layout:Left #Name:关三柱 #Speaker:GSZ_Sad
+
+哪知道却成了催命的玩意儿……#Layout:Left #Name:关三柱 #Speaker:GSZ_Sad
+
+ 
+*薛怀逸为什么不出门？#Layout:Right #Name:判官 #Speaker:GSZ_Sad
+        ->c8_3
+
+=== c8_3 ===
+ 当然是<color=red>忙着救人</color>哩。老爷他是个好官，心系那些生病的老百姓。#Layout:Left #Name:关三柱 #Speaker:GSZ_Happy
+ 
+但每天在书房里待着，身子都累坏了，只能<color=red>麻烦崔郎中每天来书房看诊。</color> #Layout:Left #Name:关三柱 #Speaker:GSZ_Sad
+
+对了！判官老爷您神通广大，能帮我看看老爷的情况吗？#Layout:Left #Name:关三柱 #Speaker:GSZ_Sad
+    ->c8_4
+    
+== c8_4
+*[我不能告知你这些信息。]
+
+哎……是。不过老爷吉人自有天相，一定没事的。#Layout:Left #Name:关三柱 #Speaker:GSZ_Sad
+<align="center"><color=red>---死因询问结束---</color>#Layout:Right #Name:判官 #Speaker:GSZ_Sad
+    ~ deadCaues = true
+    -> StartTalk
+
+=== c9_1 ===
+*[洋鬼子？你说的是布兰特吗？]
+
+是是！就是这个怪名，他就是个好吃懒做的混子。老爷好吃好住的供他，但他丹炼的慢屁事还多，没一会就要出恭过一会又要透气。#Layout:Left #Name:关三柱 #Speaker:GSZ_Normal
+
+老子烦不行了，<color=red>直接弄了个锁</color>给他锁药房里，炼不完不准出来。但看他那个坏屁样，指不定会些开锁把戏。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+    ->c9_2
+
+=== c9_2 ===
+*[那后来呢？人影是布兰特吗？]
+
+那倒不是，后来我发现原来又是<color=red>李捷那个贼娃子</color>，翻墙进来偷东西。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+
+    ->c9_3
+
+=== c9_3 ===
+*[李捷又是什么人？] 
+
+县里西边<color=red>穷巷的混小子</color>，每天不干正事，到处小偷小摸，来衙门告他的人数不胜数，但每次都没什么证据只能作罢。#Layout:Left #Name:关三柱 #Speaker:GSZ_Normal
+
+下堂后他居然还得意的说自己在<color=red>劫富济贫</color>，俺看贼就是贼说那么好听，没逮到他只是运气好罢了。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+    ->c9_4
+    
+=== c9_4 ===
+*[他经常来官府偷东西吗？]
+
+<color=red>就来过一次，刚进来就被我逮住了。</color>老爷菩萨心肠念他年纪小，没怎么罚就叫俺给他放了。#Layout:Left #Name:关三柱 #Speaker:GSZ_Normal
+
+但<color=red>俺打断了他一条腿才放了</color>，希望他长长教训，省得胆子那么大都偷到官府来了。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+    ->c9_5
+    
+=== c9_5 ===
+*[今晚他怎么又来了？]
+
+……不知道，我过去就看见他把<color=red>花房锁</color>打开了，现在花房是老爷<color=red>暂时安置病患</color>的地方，哪里容得他造次，我直接就<color=red>拿刀鞘给了他后心一下</color>。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+
+谁知道这小子像泥鳅一样，转身就溜走了，往<color=red>库房</color>那边跑去，我追过去时<color=red>府上就失火了</color>。#Layout:Left #Name:关三柱 #Speaker:GSZ_Anger
+<align="center"><color=red>---事由询问结束---</color>#Layout:Right #Name:判官 #Speaker:GSZ_Anger
+~ reason = true
+-> StartTalk

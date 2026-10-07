@@ -1,0 +1,1 @@
+﻿{"inkVersion":21,"root":[[{"->":"choice_1"},["done",{"#f":5,"#n":"g-0"}],null],"done",{"choice_1":["^……大人，能放我回去吗？我一定还能白手起家！到时必会报答您的大恩大德。","#","^Layout:Left","/#","\n","end","end",{"#f":1}],"global decl":["ev",0,{"VAR=":"choice"},"/ev","end",null],"#f":1}],"listDefs":{}}

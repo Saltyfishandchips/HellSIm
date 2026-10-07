@@ -1,0 +1,163 @@
+﻿[
+  {
+    "id": 1.0,
+    "npcName": "Xue Huaiyi",
+    "evidenceName": "Missing Persons Notice",
+    "sprite": "MissingPersonsColumn",
+    "describe": "Several yellowed papers posted in front of the government office contain information about searching for missing villagers. <color=red>The villagers have not gone missing; they are housed in the government office.</color>"
+  },
+  {
+    "id": 2.0,
+    "npcName": "Xue Huaiyi",
+    "evidenceName": "Old Plaque",
+    "sprite": "Plaque",
+    "describe": "Dropped next to the door of the government office study, it is engraved with the four characters “Integrity and Honesty,” with smaller text on the right saying “Written in the Year of the Rooster.” (1189). It shows signs of having been burned, and the upper left corner seems to have a small bloodstain. <color=red>It was gifted to Xue Jin by Xiyou Village thirty years ago. Xue Huaiyi has the maid take it down for dusting every month.</color>\n"
+  },
+  {
+    "id": 3.0,
+    "npcName": "Guan Sanzhu",
+    "evidenceName": "saber",
+    "sprite": "Sword",
+    "describe": "A saber left in the flower room, its blade smooth and unmarked, clearly has not seen battle. A faint trace of blood is visible on the edge, suggesting it has just been used. <color=red>It belongs to Guan Sanzhu, but it has not been used.</color>"
+  },
+  {
+    "id": 4.0,
+    "npcName": "Xue Huaiyi",
+    "evidenceName": "two piles of waste",
+    "sprite": "Scraps",
+    "describe": "Two piles of useless black ash-like substances are placed in the corner of the flower house. One pile is charred black and contains some incompletely burned charcoal remnants, while the other consists of small fragments of medicinal herbs. These waste materials seem to be the leftover residues from alchemy. <color=red>Cui Er said this is the fertilizer she piled in the flower house.</color>"
+  },
+  {
+    "id": 5.0,
+    "npcName": "Cui Er",
+    "evidenceName": "Wangchuan Flower seeds",
+    "sprite": "ClothBags",
+    "describe": "A half-full exquisite leather pouch containing the stolen Wangchuan flower seeds from the netherworld. The seeds are dark brown, slightly glossy, and feel frosty to the touch. <color=red>It seems to be Dr. Cui's pouch. Cui Er claims the seeds were provided by Xue Huaiyi.</color>"
+  },
+  {
+    "id": 6.0,
+    "npcName": "Xue Huaiyi",
+    "evidenceName": "Flower of Wangchuan",
+    "sprite": "Flowers",
+    "describe": "A blooming Wangchuan flower, displaying an enchanting blood-red color, with petals that seem to flicker slightly, still emitting a unique fragrance. Its appearance is identical to the Wangchuan flowers that grow on both sides of the Yellow Spring Road in the netherworld. <color=red>Dr. Cui is responsible for planting them in the flower room.</color>"
+  },
+  {
+    "id": 7.0,
+    "npcName": "Xue Huaiyi",
+    "evidenceName": "Wangyou elixir",
+    "sprite": "Pills",
+    "describe": "A small bottle of exquisite elixir, with the words “Wangyou Elixir” written on it. The elixir is crimson and emits a faint Wangchuan flower fragrance. <color=red>It seems to have little medicinal value. Cui Er claims Xue Huaiyi uses it to prolong his life.</color>"
+  },
+  {
+    "id": 8.0,
+    "npcName": "White Brandt",
+    "evidenceName": "recipe of Wangyou elixir",
+    "sprite": "Pharmacy",
+    "describe": "A handwritten prescription from Xue Huaiyi, simply recording the steps and ingredients for making the Wangyou Elixir, with foreign notes written by Brandt on the side. <color=red>The main ingredient of the formula is Wangchuan flower, and the remaining materials have no medicinal value.</color>"
+  },
+  {
+    "id": 9.0,
+    "npcName": "Cui Er",
+    "evidenceName": "Wangchuan Flower seeds with blood",
+    "sprite": "Seed",
+    "describe": "A few Wangchuan flower seeds provided by Cui Er, their surfaces stained with dried blood, appear particularly eerie. <color=red>The seeds can be stimulated to grow bulbs with fresh blood and can take root and bloom on living beings. After a person dies, the bulbs wither and turn into stone-like seeds.</color>"
+  },
+  {
+    "id": 10.0,
+    "npcName": "-",
+    "evidenceName": "toxic wine glass",
+    "sprite": "WineGoblet",
+    "describe": "A wine glass with a blurred lipstick mark on the rim, containing toxic residue in the wine."
+  },
+  {
+    "id": 11.0,
+    "npcName": "-",
+    "evidenceName": "pocket square",
+    "sprite": "PocketSquares",
+    "describe": "A light satin pocket square, with one corner embroidered with a pattern of “Lily of the Valley and Drunken Cicada” in the same color."
+  },
+  {
+    "id": 12.0,
+    "npcName": "-",
+    "evidenceName": "bouquet of flowers",
+    "sprite": "FlowersBouquet",
+    "describe": "A fragrant bouquet of flowers. It was given to Yue Ling by her fans, but the stems are messy and the petals are wilting, with no ribbon for securing them."
+  },
+  {
+    "id": 13.0,
+    "npcName": "-",
+    "evidenceName": "record",
+    "sprite": "Record",
+    "describe": "A record of Yue Ling's representative work “Spring Deep and Clear,” which set a historical sales record within a week of its release."
+  },
+  {
+    "id": 14.0,
+    "npcName": "Liu Ping",
+    "evidenceName": "tabloid",
+    "sprite": "Newspaper",
+    "describe": "A tabloid containing gossip about pop star Yue Ling and Song Zhinian, senior member of NJP. The publisher has been shut down."
+  },
+  {
+    "id": 15.0,
+    "npcName": "Liu Ping",
+    "evidenceName": "birthmark of Liu Ping",
+    "sprite": "LPBirthmark",
+    "describe": "record of Liu Ping's birthmark"
+  },
+  {
+    "id": 16.0,
+    "npcName": "Song Zhinian",
+    "evidenceName": "birthmark of Song Zhinian",
+    "sprite": "SZNBirthmark",
+    "describe": "record of Song Zhinian's birthmark"
+  },
+  {
+    "id": 17.0,
+    "npcName": "He Renshu",
+    "evidenceName": "birthmark of He Renshu",
+    "sprite": "HRSBirthmark",
+    "describe": "record of He Renshu's birthmark"
+  },
+  {
+    "id": 18.0,
+    "npcName": "Jin Wu",
+    "evidenceName": "wine glass with mute potion",
+    "sprite": "DumbMedicineGlasses",
+    "describe": "A wine glass filled with liquid, containing a mute potion."
+  },
+  {
+    "id": 19.0,
+    "npcName": "Man Lu",
+    "evidenceName": "birthmark of Man Lu",
+    "sprite": "MLBirthmark",
+    "describe": "record of Man Lu's birthmark"
+  },
+  {
+    "id": 20.0,
+    "npcName": "Yue Ling",
+    "evidenceName": "birthmark of Yue Ling",
+    "sprite": "YLBirthmark",
+    "describe": "record of Yue Ling's birthmark"
+  },
+  {
+    "id": 21.0,
+    "npcName": "White Spirit Warden",
+    "evidenceName": "stone of Kalaviṅka",
+    "sprite": "Rubbing",
+    "describe": "A stone rubbing depicting a Kalaviṅka bird, said to be preserved from the last similar incident."
+  },
+  {
+    "id": 22.0,
+    "npcName": "Fan Wujiu",
+    "evidenceName": "Arbiter's Handbook",
+    "sprite": "Manual",
+    "describe": "A manual outlining the duties of the arbiter, case procedures, and review points, for the arbiter's reference to ensure smooth progress throughout the trial."
+  },
+  {
+    "id": 23.0,
+    "npcName": "Fan Wujiu",
+    "evidenceName": "confession letter of White Spirit Warden",
+    "sprite": "Confession",
+    "describe": "A confession letter handwritten by White Spirit Warden, describing his failure to return in time on the day of Black Spirit Warden's drowning. Upon seeing this, Black Spirit Warden's obsession will diminish."
+  }
+]

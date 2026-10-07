@@ -1,0 +1,271 @@
+"filename", "language", "JSON", "UnityShader", "C#", "Markdown", "UnityAssemblyDefinition", "comment", "blank", "total"
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleAudio.cs", "C#", 0, 0, 94, 0, 0, 80, 25, 199
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleEPOOutline.cs", "C#", 0, 0, 109, 0, 0, 18, 20, 147
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModulePhysics.cs", "C#", 0, 0, 137, 0, 0, 60, 20, 217
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModulePhysics2D.cs", "C#", 0, 0, 125, 0, 0, 51, 18, 194
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleSprite.cs", "C#", 0, 0, 63, 0, 0, 17, 14, 94
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUI.cs", "C#", 0, 0, 390, 0, 0, 203, 70, 663
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUnityVersion.cs", "C#", 0, 0, 254, 0, 0, 99, 37, 390
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUtils.cs", "C#", 0, 0, 123, 0, 0, 27, 18, 168
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Editor\ExcelTools.cs", "C#", 0, 0, 133, 0, 0, 62, 29, 224
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Editor\ExcelUtility.cs", "C#", 0, 0, 247, 0, 0, 87, 71, 405
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\CHANGELOG.md", "Markdown", 0, 0, 0, 89, 0, 0, 19, 108
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Ink\story.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\BasicInkExample.cs", "C#", 0, 0, 72, 0, 0, 22, 17, 111
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\Editor\BasicInkExampleEditor.cs", "C#", 0, 0, 23, 0, 0, 1, 3, 27
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\QuitGameOnKeypress.cs", "C#", 0, 0, 7, 0, 0, 0, 3, 10
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\Auto Compiler\InkPostProcessor.cs", "C#", 0, 0, 159, 0, 0, 29, 24, 212
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\InkCompiler.cs", "C#", 0, 0, 628, 0, 0, 92, 102, 822
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\UnityInkFileHandler.cs", "C#", 0, 0, 17, 0, 0, 2, 4, 23
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkCompilerLog.cs", "C#", 0, 0, 56, 0, 0, 0, 8, 64
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkFile.cs", "C#", 0, 0, 244, 0, 0, 38, 51, 333
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkLibrary.cs", "C#", 0, 0, 410, 0, 0, 90, 52, 552
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Settings\InkSettings.cs", "C#", 0, 0, 105, 0, 0, 23, 17, 145
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Settings\InkSettingsEditor.cs", "C#", 0, 0, 112, 0, 0, 10, 29, 151
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\InkEditorUtils.cs", "C#", 0, 0, 279, 0, 0, 43, 50, 372
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\InkEditor.asmdef", "UnityAssemblyDefinition", 0, 0, 0, 0, 16, 0, 0, 16
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Build Validation\InkPreBuildValidationCheck.cs", "C#", 0, 0, 51, 0, 0, 6, 5, 62
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\File Icons\InkBrowserIcons.cs", "C#", 0, 0, 172, 0, 0, 4, 13, 189
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\DefaultAssetEditor.cs", "C#", 0, 0, 53, 0, 0, 0, 7, 60
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\DefaultAssetInspector.cs", "C#", 0, 0, 14, 0, 0, 3, 2, 19
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\InkInspector.cs", "C#", 0, 0, 380, 0, 0, 28, 54, 462
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Player Window\InkHistoryContentItem.cs", "C#", 0, 0, 87, 0, 0, 1, 5, 93
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Player Window\InkPlayerWindow.cs", "C#", 0, 0, 2442, 0, 0, 184, 432, 3058
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Startup Window\InkUnityIntegrationStartupWindow.cs", "C#", 0, 0, 91, 0, 0, 0, 20, 111
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\Ink-Libraries.asmdef", "UnityAssemblyDefinition", 0, 0, 0, 0, 6, 0, 0, 6
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CharacterRange.cs", "C#", 0, 0, 38, 0, 0, 11, 6, 55
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CharacterSet.cs", "C#", 0, 0, 43, 0, 0, 0, 11, 54
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CommandLineInput.cs", "C#", 0, 0, 12, 0, 0, 0, 0, 12
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Compiler.cs", "C#", 0, 0, 162, 0, 0, 9, 42, 213
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\FileHandler.cs", "C#", 0, 0, 21, 0, 0, 0, 4, 25
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\CommentEliminator.cs", "C#", 0, 0, 63, 0, 0, 12, 19, 94
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser.cs", "C#", 0, 0, 133, 0, 0, 12, 38, 183
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_AuthorWarning.cs", "C#", 0, 0, 19, 0, 0, 0, 10, 29
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_CharacterRanges.cs", "C#", 0, 0, 51, 0, 0, 8, 6, 65
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Choices.cs", "C#", 0, 0, 144, 0, 0, 23, 62, 229
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_CommandLineInput.cs", "C#", 0, 0, 90, 0, 0, 8, 32, 130
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Conditional.cs", "C#", 0, 0, 189, 0, 0, 44, 56, 289
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Content.cs", "C#", 0, 0, 137, 0, 0, 28, 46, 211
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Divert.cs", "C#", 0, 0, 126, 0, 0, 33, 50, 209
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Expressions.cs", "C#", 0, 0, 344, 0, 0, 46, 123, 513
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Include.cs", "C#", 0, 0, 54, 0, 0, 5, 18, 77
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Knot.cs", "C#", 0, 0, 159, 0, 0, 15, 66, 240
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Logic.cs", "C#", 0, 0, 272, 0, 0, 65, 106, 443
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Sequences.cs", "C#", 0, 0, 167, 0, 0, 11, 54, 232
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Statements.cs", "C#", 0, 0, 108, 0, 0, 20, 36, 164
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Tags.cs", "C#", 0, 0, 47, 0, 0, 3, 14, 64
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Whitespace.cs", "C#", 0, 0, 80, 0, 0, 6, 27, 113
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkStringConversionExtensions.cs", "C#", 0, 0, 15, 0, 0, 0, 4, 19
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\AuthorWarning.cs", "C#", 0, 0, 16, 0, 0, 0, 5, 21
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Choice.cs", "C#", 0, 0, 165, 0, 0, 66, 60, 291
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Conditional.cs", "C#", 0, 0, 48, 0, 0, 8, 16, 72
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ConditionalSingleBranch.cs", "C#", 0, 0, 88, 0, 0, 38, 33, 159
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ConstantDeclaration.cs", "C#", 0, 0, 32, 0, 0, 5, 10, 47
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ContentList.cs", "C#", 0, 0, 64, 0, 0, 1, 14, 79
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Divert.cs", "C#", 0, 0, 270, 0, 0, 60, 74, 404
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\DivertTarget.cs", "C#", 0, 0, 117, 0, 0, 28, 28, 173
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Expression.cs", "C#", 0, 0, 210, 0, 0, 37, 61, 308
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ExternalDeclaration.cs", "C#", 0, 0, 24, 0, 0, 1, 6, 31
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FlowBase.cs", "C#", 0, 0, 307, 0, 0, 47, 86, 440
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FlowLevel.cs", "C#", 0, 0, 10, 0, 0, 0, 2, 12
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FunctionCall.cs", "C#", 0, 0, 176, 0, 0, 13, 54, 243
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Gather.cs", "C#", 0, 0, 39, 0, 0, 1, 12, 52
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\INamedContent.cs", "C#", 0, 0, 7, 0, 0, 0, 3, 10
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\IWeavePoint.cs", "C#", 0, 0, 12, 0, 0, 0, 4, 16
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Identifier.cs", "C#", 0, 0, 11, 0, 0, 0, 3, 14
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\IncludedFile.cs", "C#", 0, 0, 15, 0, 0, 1, 5, 21
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Knot.cs", "C#", 0, 0, 25, 0, 0, 2, 9, 36
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\List.cs", "C#", 0, 0, 45, 0, 0, 0, 9, 54
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ListDefinition.cs", "C#", 0, 0, 111, 0, 0, 1, 28, 140
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Number.cs", "C#", 0, 0, 43, 0, 0, 1, 10, 54
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Object.cs", "C#", 0, 0, 279, 0, 0, 16, 69, 364
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Path.cs", "C#", 0, 0, 129, 0, 0, 27, 37, 193
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Return.cs", "C#", 0, 0, 27, 0, 0, 5, 8, 40
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Sequence.cs", "C#", 0, 0, 123, 0, 0, 43, 41, 207
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Stitch.cs", "C#", 0, 0, 11, 0, 0, 0, 4, 15
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Story.cs", "C#", 0, 0, 327, 0, 0, 84, 98, 509
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\StringExpression.cs", "C#", 0, 0, 54, 0, 0, 3, 14, 71
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Tag.cs", "C#", 0, 0, 22, 0, 0, 0, 6, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Text.cs", "C#", 0, 0, 19, 0, 0, 0, 6, 25
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\TunnelOnwards.cs", "C#", 0, 0, 68, 0, 0, 6, 19, 93
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\VariableAssignment.cs", "C#", 0, 0, 89, 0, 0, 10, 25, 124
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\VariableReference.cs", "C#", 0, 0, 96, 0, 0, 27, 30, 153
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Weave.cs", "C#", 0, 0, 433, 0, 0, 152, 146, 731
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Wrap.cs", "C#", 0, 0, 21, 0, 0, 1, 7, 29
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Plugins\Plugin.cs", "C#", 0, 0, 10, 0, 0, 6, 6, 22
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Plugins\PluginManager.cs", "C#", 0, 0, 55, 0, 0, 0, 14, 69
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Stats.cs", "C#", 0, 0, 43, 0, 0, 11, 14, 68
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\StringParser\StringParser.cs", "C#", 0, 0, 502, 0, 0, 53, 131, 686
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\StringParser\StringParserState.cs", "C#", 0, 0, 127, 0, 0, 11, 34, 172
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\CallStack.cs", "C#", 0, 0, 337, 0, 0, 19, 88, 444
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Choice.cs", "C#", 0, 0, 26, 0, 0, 21, 10, 57
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ChoicePoint.cs", "C#", 0, 0, 72, 0, 0, 6, 12, 90
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Container.cs", "C#", 0, 0, 278, 0, 0, 9, 80, 367
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ControlCommand.cs", "C#", 0, 0, 138, 0, 0, 10, 35, 183
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\DebugMetadata.cs", "C#", 0, 0, 61, 0, 0, 4, 12, 77
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Divert.cs", "C#", 0, 0, 124, 0, 0, 1, 25, 150
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Error.cs", "C#", 0, 0, 10, 0, 0, 12, 3, 25
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Flow.cs", "C#", 0, 0, 73, 0, 0, 5, 15, 93
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Glue.cs", "C#", 0, 0, 11, 0, 0, 0, 3, 14
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\INamedContent.cs", "C#", 0, 0, 8, 0, 0, 0, 3, 11
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\InkList.cs", "C#", 0, 0, 382, 0, 0, 158, 75, 615
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\JsonSerialisation.cs", "C#", 0, 0, 522, 0, 0, 82, 119, 723
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ListDefinition.cs", "C#", 0, 0, 60, 0, 0, 3, 13, 76
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ListDefinitionsOrigin.cs", "C#", 0, 0, 43, 0, 0, 2, 9, 54
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\NativeFunctionCall.cs", "C#", 0, 0, 365, 0, 0, 40, 104, 509
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Object.cs", "C#", 0, 0, 178, 0, 0, 26, 47, 251
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Path.cs", "C#", 0, 0, 225, 0, 0, 8, 45, 278
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Pointer.cs", "C#", 0, 0, 50, 0, 0, 8, 12, 70
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Profiler.cs", "C#", 0, 0, 262, 0, 0, 64, 69, 395
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\PushPop.cs", "C#", 0, 0, 11, 0, 0, 0, 3, 14
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\SearchResult.cs", "C#", 0, 0, 11, 0, 0, 6, 2, 19
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\SimpleJson.cs", "C#", 0, 0, 496, 0, 0, 24, 128, 648
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StatePatch.cs", "C#", 0, 0, 56, 0, 0, 0, 11, 67
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Story.cs", "C#", 0, 0, 1626, 0, 0, 781, 512, 2919
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StoryException.cs", "C#", 0, 0, 9, 0, 0, 12, 4, 25
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StoryState.cs", "C#", 0, 0, 921, 0, 0, 178, 243, 1342
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StringJoinExtension.cs", "C#", 0, 0, 21, 0, 0, 0, 8, 29
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Tag.cs", "C#", 0, 0, 15, 0, 0, 8, 5, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Value.cs", "C#", 0, 0, 308, 0, 0, 21, 77, 406
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariableAssignment.cs", "C#", 0, 0, 20, 0, 0, 2, 6, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariableReference.cs", "C#", 0, 0, 40, 0, 0, 3, 9, 52
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariablesState.cs", "C#", 0, 0, 286, 0, 0, 61, 71, 418
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Void.cs", "C#", 0, 0, 9, 0, 0, 0, 2, 11
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\LICENCE.md", "Markdown", 0, 0, 0, 7, 0, 0, 6, 13
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\README.md", "Markdown", 0, 0, 0, 92, 0, 0, 73, 165
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\IJsonWrapper.cs", "C#", 0, 0, 42, 0, 0, 9, 10, 61
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonData.cs", "C#", 0, 0, 809, 0, 0, 16, 235, 1060
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonException.cs", "C#", 0, 0, 47, 0, 0, 7, 12, 66
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonMapper.cs", "C#", 0, 0, 756, 0, 0, 21, 219, 996
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonMockWrapper.cs", "C#", 0, 0, 72, 0, 0, 8, 26, 106
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonReader.cs", "C#", 0, 0, 362, 0, 0, 9, 108, 479
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonWriter.cs", "C#", 0, 0, 369, 0, 0, 8, 108, 485
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\Lexer.cs", "C#", 0, 0, 731, 0, 0, 10, 172, 913
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\Netstandard15Polyfill.cs", "C#", 0, 0, 22, 0, 0, 0, 2, 24
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\ParserToken.cs", "C#", 0, 0, 27, 0, 0, 12, 6, 45
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Bribe.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\D1_1_preDialogues.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_ComparisonTable.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_JudgeCompelete.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_PreTalk.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_2_ComparisonTable.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_2_JudgeCompelete.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Evidence.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Resurrection.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\SpecialComparisonTable.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Table.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Trial 2.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Trial.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\TrialCompelete.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\Bird.json", "JSON", 24, 0, 0, 0, 0, 0, 0, 24
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\DailyDataTest.json", "JSON", 30, 0, 0, 0, 0, 0, 0, 30
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\InkExcel.json", "JSON", 47, 0, 0, 0, 0, 0, 0, 47
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\ObituaryDataTest.json", "JSON", 128, 0, 0, 0, 0, 0, 0, 128
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\PaperWorkDataTest.json", "JSON", 38, 0, 0, 0, 0, 0, 0, 38
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\TravelPermitDataTest.json", "JSON", 128, 0, 0, 0, 0, 0, 0, 128
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\npcDataTest.json", "JSON", 137, 0, 0, 0, 0, 0, 0, 137
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\BribeMoney.cs", "C#", 0, 0, 61, 0, 0, 12, 14, 87
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ChatPanelManager.cs", "C#", 0, 0, 71, 0, 0, 11, 16, 98
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Data\IndividualData.cs", "C#", 0, 0, 158, 0, 0, 0, 18, 176
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\EvidenceObject.cs", "C#", 0, 0, 12, 0, 0, 1, 10, 23
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\FDWDCard.cs", "C#", 0, 0, 85, 0, 0, 3, 23, 111
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\FengduSeal.cs", "C#", 0, 0, 36, 0, 0, 1, 4, 41
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\BaseNode.cs", "C#", 0, 0, 9, 0, 0, 0, 3, 12
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\EndNode.cs", "C#", 0, 0, 32, 0, 0, 0, 6, 38
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\ExaminationNode.cs", "C#", 0, 0, 41, 0, 0, 0, 9, 50
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowDataManager.cs", "C#", 0, 0, 98, 0, 0, 9, 12, 119
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowGraph.cs", "C#", 0, 0, 6, 0, 0, 1, 2, 9
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowManager.cs", "C#", 0, 0, 135, 0, 0, 7, 24, 166
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\OperationNode.cs", "C#", 0, 0, 27, 0, 0, 0, 4, 31
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\PrepareNode.cs", "C#", 0, 0, 45, 0, 0, 4, 9, 58
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\QANode.cs", "C#", 0, 0, 28, 0, 0, 0, 4, 32
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\ResultNode.cs", "C#", 0, 0, 42, 0, 0, 2, 8, 52
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\StartNode.cs", "C#", 0, 0, 27, 0, 0, 1, 6, 34
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\TrialNode.cs", "C#", 0, 0, 27, 0, 0, 0, 5, 32
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkInfo.cs", "C#", 0, 0, 70, 0, 0, 18, 14, 102
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkInfoManager.cs", "C#", 0, 0, 154, 0, 0, 11, 21, 186
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkPath.cs", "C#", 0, 0, 9, 0, 0, 0, 3, 12
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Json\JsonReader.cs", "C#", 0, 0, 28, 0, 0, 2, 6, 36
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\BirdManager.cs", "C#", 0, 0, 91, 0, 0, 2, 22, 115
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\BribeManager.cs", "C#", 0, 0, 23, 0, 0, 0, 7, 30
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\DialogueManager.cs", "C#", 0, 0, 267, 0, 0, 35, 51, 353
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\TImeManager.cs", "C#", 0, 0, 85, 0, 0, 14, 9, 108
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\TrialNPCManager.cs", "C#", 0, 0, 106, 0, 0, 20, 24, 150
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\MoneyUI.cs", "C#", 0, 0, 51, 0, 0, 1, 11, 63
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ObjectDrag.cs", "C#", 0, 0, 32, 0, 0, 11, 11, 54
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\OnObjectScaleChange.cs", "C#", 0, 0, 21, 0, 0, 3, 4, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\RewardSticks.cs", "C#", 0, 0, 109, 0, 0, 5, 15, 129
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\StickerBox.cs", "C#", 0, 0, 70, 0, 0, 3, 16, 89
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\StickerListGen.cs", "C#", 0, 0, 26, 0, 0, 3, 5, 34
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TempryGoHomeTicket.cs", "C#", 0, 0, 21, 0, 0, 0, 7, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ToggleInkTrigger.cs", "C#", 0, 0, 24, 0, 0, 2, 4, 30
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TrailCalculator.cs", "C#", 0, 0, 59, 0, 0, 18, 10, 87
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TrailIDCard.cs", "C#", 0, 0, 85, 0, 0, 14, 23, 122
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UIExchangeDrag.cs", "C#", 0, 0, 98, 0, 0, 19, 30, 147
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\InfoTabelToggleChanger.cs", "C#", 0, 0, 63, 0, 0, 8, 14, 85
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\JudgeGavelBtn.cs", "C#", 0, 0, 28, 0, 0, 9, 9, 46
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\MouseChanger.cs", "C#", 0, 0, 117, 0, 0, 7, 11, 135
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ObjectDragger.cs", "C#", 0, 0, 111, 0, 0, 11, 18, 140
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ToggleGroupManager.cs", "C#", 0, 0, 49, 0, 0, 3, 5, 57
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ToggleValueChanger.cs", "C#", 0, 0, 32, 0, 0, 6, 9, 47
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\UIController.cs", "C#", 0, 0, 111, 0, 0, 11, 28, 150
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs", "C#", 0, 0, 63, 0, 0, 29, 37, 129
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs", "C#", 0, 0, 59, 0, 0, 37, 40, 136
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs", "C#", 0, 0, 65, 0, 0, 6, 27, 98
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs", "C#", 0, 0, 73, 0, 0, 1, 19, 93
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs", "C#", 0, 0, 41, 0, 0, 26, 19, 86
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs", "C#", 0, 0, 198, 0, 0, 25, 69, 292
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs", "C#", 0, 0, 31, 0, 0, 5, 16, 52
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs", "C#", 0, 0, 15, 0, 0, 0, 5, 20
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs", "C#", 0, 0, 23, 0, 0, 4, 9, 36
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs", "C#", 0, 0, 50, 0, 0, 4, 15, 69
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs", "C#", 0, 0, 33, 0, 0, 5, 14, 52
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs", "C#", 0, 0, 24, 0, 0, 15, 20, 59
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs", "C#", 0, 0, 95, 0, 0, 18, 46, 159
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs", "C#", 0, 0, 19, 0, 0, 5, 4, 28
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs", "C#", 0, 0, 37, 0, 0, 9, 19, 65
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs", "C#", 0, 0, 91, 0, 0, 11, 33, 135
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs", "C#", 0, 0, 93, 0, 0, 7, 6, 106
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs", "C#", 0, 0, 56, 0, 0, 1, 17, 74
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs", "C#", 0, 0, 170, 0, 0, 31, 54, 255
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs", "C#", 0, 0, 409, 0, 0, 97, 147, 653
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs", "C#", 0, 0, 100, 0, 0, 17, 41, 158
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs", "C#", 0, 0, 250, 0, 0, 191, 107, 548
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs", "C#", 0, 0, 96, 0, 0, 1, 28, 125
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs", "C#", 0, 0, 55, 0, 0, 6, 24, 85
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs", "C#", 0, 0, 40, 0, 0, 15, 28, 83
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs", "C#", 0, 0, 79, 0, 0, 13, 29, 121
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs", "C#", 0, 0, 135, 0, 0, 32, 57, 224
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs", "C#", 0, 0, 46, 0, 0, 13, 21, 80
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs", "C#", 0, 0, 48, 0, 0, 13, 24, 85
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs", "C#", 0, 0, 105, 0, 0, 26, 44, 175
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs", "C#", 0, 0, 99, 0, 0, 23, 39, 161
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs", "C#", 0, 0, 112, 0, 0, 29, 44, 185
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs", "C#", 0, 0, 112, 0, 0, 32, 48, 192
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs", "C#", 0, 0, 87, 0, 0, 15, 43, 145
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader", "UnityShader", 0, 109, 0, 0, 0, 2, 33, 144
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader", "UnityShader", 0, 112, 0, 0, 0, 3, 31, 146
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader", "UnityShader", 0, 109, 0, 0, 0, 2, 33, 144
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader", "UnityShader", 0, 243, 0, 0, 0, 4, 71, 318
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader", "UnityShader", 0, 241, 0, 0, 0, 4, 66, 311
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader", "UnityShader", 0, 188, 0, 0, 0, 10, 50, 248
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader", "UnityShader", 0, 183, 0, 0, 0, 8, 50, 241
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader", "UnityShader", 0, 82, 0, 0, 0, 4, 21, 107
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader", "UnityShader", 0, 183, 0, 0, 0, 8, 50, 241
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader", "UnityShader", 0, 103, 0, 0, 0, 8, 28, 139
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader", "UnityShader", 0, 122, 0, 0, 0, 4, 33, 159
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF.shader", "UnityShader", 0, 243, 0, 0, 0, 4, 71, 318
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader", "UnityShader", 0, 97, 0, 0, 0, 0, 20, 117
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro.cginc", "UnityShader", 0, 63, 0, 0, 0, 2, 20, 85
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc", "UnityShader", 0, 122, 0, 0, 0, 2, 34, 158
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc", "UnityShader", 0, 62, 0, 0, 0, 10, 14, 86
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc", "UnityShader", 0, 76, 0, 0, 0, 7, 19, 102
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Sprites\EmojiOne.json", "JSON", 155, 0, 0, 0, 0, 0, 2, 157
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\Bird.json", "JSON", 101, 0, 0, 0, 0, 0, 0, 101
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\InkExcel.json", "JSON", 137, 0, 0, 0, 0, 0, 0, 137
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\Obituary.json", "JSON", 128, 0, 0, 0, 0, 0, 0, 128
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\npcDataTest.json", "JSON", 222, 0, 0, 0, 0, 0, 0, 222
+"d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\travelPerimit.json", "JSON", 128, 0, 0, 0, 0, 0, 0, 128
+"d:\Taores\Project\Netherworld Arbiter demo\Packages\manifest.json", "JSON", 48, 0, 0, 0, 0, 0, 1, 49
+"d:\Taores\Project\Netherworld Arbiter demo\Packages\packages-lock.json", "JSON", 514, 0, 0, 0, 0, 0, 1, 515
+"Total", "-", 1980, 2338, 30001, 188, 22, 5210, 8552, 48291

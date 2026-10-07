@@ -1,0 +1,356 @@
+Date : 2024-08-19 19:57:47
+Directory : d:\Taores\Project\Netherworld Arbiter demo
+Total : 269 files,  34529 codes, 5210 comments, 8552 blanks, all 48291 lines
+
+Languages
++-------------------------+------------+------------+------------+------------+------------+
+| language                | files      | code       | comment    | blank      | total      |
++-------------------------+------------+------------+------------+------------+------------+
+| C#                      |        217 |     30,001 |      5,128 |      7,806 |     42,935 |
+| UnityShader             |         17 |      2,338 |         82 |        644 |      3,064 |
+| JSON                    |         30 |      1,980 |          0 |          4 |      1,984 |
+| Markdown                |          3 |        188 |          0 |         98 |        286 |
+| UnityAssemblyDefinition |          2 |         22 |          0 |          0 |         22 |
++-------------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                             |        269 |     34,529 |      5,210 |      8,552 |     48,291 |
+| Assets                                                                                                                        |        267 |     33,967 |      5,210 |      8,550 |     47,727 |
+| Assets\DOTween_1_2_765                                                                                                        |          8 |      1,295 |        555 |        222 |      2,072 |
+| Assets\DOTween_1_2_765\DOTween                                                                                                |          8 |      1,295 |        555 |        222 |      2,072 |
+| Assets\DOTween_1_2_765\DOTween\Modules                                                                                        |          8 |      1,295 |        555 |        222 |      2,072 |
+| Assets\Editor                                                                                                                 |          2 |        380 |        149 |        100 |        629 |
+| Assets\Plugins                                                                                                                |        134 |     22,648 |      3,374 |      5,825 |     31,847 |
+| Assets\Plugins\Ink                                                                                                            |        124 |     19,411 |      3,274 |      4,927 |     27,612 |
+| Assets\Plugins\Ink (Files)                                                                                                    |          3 |        188 |          0 |         98 |        286 |
+| Assets\Plugins\Ink\Demos                                                                                                      |          4 |        103 |         23 |         23 |        149 |
+| Assets\Plugins\Ink\Demos\Basic Demo                                                                                           |          4 |        103 |         23 |         23 |        149 |
+| Assets\Plugins\Ink\Demos\Basic Demo\Ink                                                                                       |          1 |          1 |          0 |          0 |          1 |
+| Assets\Plugins\Ink\Demos\Basic Demo\Scripts                                                                                   |          3 |        102 |         23 |         23 |        148 |
+| Assets\Plugins\Ink\Demos\Basic Demo\Scripts (Files)                                                                           |          2 |         79 |         22 |         20 |        121 |
+| Assets\Plugins\Ink\Demos\Basic Demo\Scripts\Editor                                                                            |          1 |         23 |          1 |          3 |         27 |
+| Assets\Plugins\Ink\Editor                                                                                                     |         18 |      5,316 |        553 |        875 |      6,744 |
+| Assets\Plugins\Ink\Editor (Files)                                                                                             |          1 |         16 |          0 |          0 |         16 |
+| Assets\Plugins\Ink\Editor\Core                                                                                                |          9 |      2,010 |        327 |        337 |      2,674 |
+| Assets\Plugins\Ink\Editor\Core (Files)                                                                                        |          1 |        279 |         43 |         50 |        372 |
+| Assets\Plugins\Ink\Editor\Core\Compiler                                                                                       |          3 |        804 |        123 |        130 |      1,057 |
+| Assets\Plugins\Ink\Editor\Core\Compiler (Files)                                                                               |          2 |        645 |         94 |        106 |        845 |
+| Assets\Plugins\Ink\Editor\Core\Compiler\Auto Compiler                                                                         |          1 |        159 |         29 |         24 |        212 |
+| Assets\Plugins\Ink\Editor\Core\Ink Library                                                                                    |          3 |        710 |        128 |        111 |        949 |
+| Assets\Plugins\Ink\Editor\Core\Ink Settings                                                                                   |          2 |        217 |         33 |         46 |        296 |
+| Assets\Plugins\Ink\Editor\Tools                                                                                               |          8 |      3,290 |        226 |        538 |      4,054 |
+| Assets\Plugins\Ink\Editor\Tools\Build Validation                                                                              |          1 |         51 |          6 |          5 |         62 |
+| Assets\Plugins\Ink\Editor\Tools\File Icons                                                                                    |          1 |        172 |          4 |         13 |        189 |
+| Assets\Plugins\Ink\Editor\Tools\Ink Inspector                                                                                 |          3 |        447 |         31 |         63 |        541 |
+| Assets\Plugins\Ink\Editor\Tools\Player Window                                                                                 |          2 |      2,529 |        185 |        437 |      3,151 |
+| Assets\Plugins\Ink\Editor\Tools\Startup Window                                                                                |          1 |         91 |          0 |         20 |        111 |
+| Assets\Plugins\Ink\InkLibs                                                                                                    |         99 |     13,804 |      2,698 |      3,931 |     20,433 |
+| Assets\Plugins\Ink\InkLibs (Files)                                                                                            |          1 |          6 |          0 |          0 |          6 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler                                                                                        |         64 |      6,744 |      1,124 |      2,071 |      9,939 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler (Files)                                                                                |          7 |        334 |         31 |         81 |        446 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser                                                                              |         17 |      2,183 |        339 |        763 |      3,285 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy                                                                        |         36 |      3,533 |        684 |      1,042 |      5,259 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler\Plugins                                                                                |          2 |         65 |          6 |         20 |         91 |
+| Assets\Plugins\Ink\InkLibs\InkCompiler\StringParser                                                                           |          2 |        629 |         64 |        165 |        858 |
+| Assets\Plugins\Ink\InkLibs\InkRuntime                                                                                         |         34 |      7,054 |      1,574 |      1,860 |     10,488 |
+| Assets\Plugins\LitJson                                                                                                        |         10 |      3,237 |        100 |        898 |      4,235 |
+| Assets\Resources                                                                                                              |         21 |        546 |          0 |          0 |        546 |
+| Assets\Resources\Dialogue                                                                                                     |         14 |         14 |          0 |          0 |         14 |
+| Assets\Resources\Json                                                                                                         |          7 |        532 |          0 |          0 |        532 |
+| Assets\Scripts                                                                                                                |         45 |      2,880 |        288 |        564 |      3,732 |
+| Assets\Scripts (Files)                                                                                                        |         13 |        656 |         96 |        167 |        919 |
+| Assets\Scripts\Data                                                                                                           |          1 |        158 |          0 |         18 |        176 |
+| Assets\Scripts\Flow                                                                                                           |         12 |        517 |         24 |         92 |        633 |
+| Assets\Scripts\InkInfo                                                                                                        |          3 |        233 |         29 |         38 |        300 |
+| Assets\Scripts\Json                                                                                                           |          1 |         28 |          2 |          6 |         36 |
+| Assets\Scripts\Manager                                                                                                        |          5 |        572 |         71 |        113 |        756 |
+| Assets\Scripts\RewardBox                                                                                                      |          3 |        205 |         11 |         36 |        252 |
+| Assets\Scripts\UI                                                                                                             |          7 |        511 |         55 |         94 |        660 |
+| Assets\TextMesh Pro                                                                                                           |         52 |      5,502 |        844 |      1,839 |      8,185 |
+| Assets\TextMesh Pro\Examples & Extras                                                                                         |         34 |      3,009 |        762 |      1,193 |      4,964 |
+| Assets\TextMesh Pro\Examples & Extras\Scripts                                                                                 |         34 |      3,009 |        762 |      1,193 |      4,964 |
+| Assets\TextMesh Pro\Shaders                                                                                                   |         17 |      2,338 |         82 |        644 |      3,064 |
+| Assets\TextMesh Pro\Sprites                                                                                                   |          1 |        155 |          0 |          2 |        157 |
+| Assets\_Assets                                                                                                                |          5 |        716 |          0 |          0 |        716 |
+| Assets\_Assets\Excel                                                                                                          |          5 |        716 |          0 |          0 |        716 |
+| Packages                                                                                                                      |          2 |        562 |          0 |          2 |        564 |
++-------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------+-------------------------+------------+------------+------------+------------+
+| filename                                                                                                                      | language                | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------+-------------------------+------------+------------+------------+------------+
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleAudio.cs                       | C#                      |         94 |         80 |         25 |        199 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleEPOOutline.cs                  | C#                      |        109 |         18 |         20 |        147 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModulePhysics.cs                     | C#                      |        137 |         60 |         20 |        217 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModulePhysics2D.cs                   | C#                      |        125 |         51 |         18 |        194 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleSprite.cs                      | C#                      |         63 |         17 |         14 |         94 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUI.cs                          | C#                      |        390 |        203 |         70 |        663 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUnityVersion.cs                | C#                      |        254 |         99 |         37 |        390 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\DOTween_1_2_765\DOTween\Modules\DOTweenModuleUtils.cs                       | C#                      |        123 |         27 |         18 |        168 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Editor\ExcelTools.cs                                                        | C#                      |        133 |         62 |         29 |        224 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Editor\ExcelUtility.cs                                                      | C#                      |        247 |         87 |         71 |        405 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\CHANGELOG.md                                                    | Markdown                |         89 |          0 |         19 |        108 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Ink\story.json                                 | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\BasicInkExample.cs                     | C#                      |         72 |         22 |         17 |        111 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\Editor\BasicInkExampleEditor.cs        | C#                      |         23 |          1 |          3 |         27 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Demos\Basic Demo\Scripts\QuitGameOnKeypress.cs                  | C#                      |          7 |          0 |          3 |         10 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\Auto Compiler\InkPostProcessor.cs          | C#                      |        159 |         29 |         24 |        212 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\InkCompiler.cs                             | C#                      |        628 |         92 |        102 |        822 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Compiler\UnityInkFileHandler.cs                     | C#                      |         17 |          2 |          4 |         23 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkCompilerLog.cs                       | C#                      |         56 |          0 |          8 |         64 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkFile.cs                              | C#                      |        244 |         38 |         51 |        333 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Library\InkLibrary.cs                           | C#                      |        410 |         90 |         52 |        552 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Settings\InkSettings.cs                         | C#                      |        105 |         23 |         17 |        145 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\Ink Settings\InkSettingsEditor.cs                   | C#                      |        112 |         10 |         29 |        151 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Core\InkEditorUtils.cs                                   | C#                      |        279 |         43 |         50 |        372 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\InkEditor.asmdef                                         | UnityAssemblyDefinition |         16 |          0 |          0 |         16 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Build Validation\InkPreBuildValidationCheck.cs     | C#                      |         51 |          6 |          5 |         62 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\File Icons\InkBrowserIcons.cs                      | C#                      |        172 |          4 |         13 |        189 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\DefaultAssetEditor.cs                | C#                      |         53 |          0 |          7 |         60 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\DefaultAssetInspector.cs             | C#                      |         14 |          3 |          2 |         19 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Ink Inspector\InkInspector.cs                      | C#                      |        380 |         28 |         54 |        462 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Player Window\InkHistoryContentItem.cs             | C#                      |         87 |          1 |          5 |         93 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Player Window\InkPlayerWindow.cs                   | C#                      |      2,442 |        184 |        432 |      3,058 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\Editor\Tools\Startup Window\InkUnityIntegrationStartupWindow.cs | C#                      |         91 |          0 |         20 |        111 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\Ink-Libraries.asmdef                                    | UnityAssemblyDefinition |          6 |          0 |          0 |          6 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CharacterRange.cs                           | C#                      |         38 |         11 |          6 |         55 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CharacterSet.cs                             | C#                      |         43 |          0 |         11 |         54 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\CommandLineInput.cs                         | C#                      |         12 |          0 |          0 |         12 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Compiler.cs                                 | C#                      |        162 |          9 |         42 |        213 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\FileHandler.cs                              | C#                      |         21 |          0 |          4 |         25 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\CommentEliminator.cs              | C#                      |         63 |         12 |         19 |         94 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser.cs                      | C#                      |        133 |         12 |         38 |        183 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_AuthorWarning.cs        | C#                      |         19 |          0 |         10 |         29 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_CharacterRanges.cs      | C#                      |         51 |          8 |          6 |         65 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Choices.cs              | C#                      |        144 |         23 |         62 |        229 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_CommandLineInput.cs     | C#                      |         90 |          8 |         32 |        130 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Conditional.cs          | C#                      |        189 |         44 |         56 |        289 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Content.cs              | C#                      |        137 |         28 |         46 |        211 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Divert.cs               | C#                      |        126 |         33 |         50 |        209 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Expressions.cs          | C#                      |        344 |         46 |        123 |        513 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Include.cs              | C#                      |         54 |          5 |         18 |         77 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Knot.cs                 | C#                      |        159 |         15 |         66 |        240 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Logic.cs                | C#                      |        272 |         65 |        106 |        443 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Sequences.cs            | C#                      |        167 |         11 |         54 |        232 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Statements.cs           | C#                      |        108 |         20 |         36 |        164 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Tags.cs                 | C#                      |         47 |          3 |         14 |         64 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkParser\InkParser_Whitespace.cs           | C#                      |         80 |          6 |         27 |        113 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\InkStringConversionExtensions.cs            | C#                      |         15 |          0 |          4 |         19 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\AuthorWarning.cs            | C#                      |         16 |          0 |          5 |         21 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Choice.cs                   | C#                      |        165 |         66 |         60 |        291 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Conditional.cs              | C#                      |         48 |          8 |         16 |         72 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ConditionalSingleBranch.cs  | C#                      |         88 |         38 |         33 |        159 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ConstantDeclaration.cs      | C#                      |         32 |          5 |         10 |         47 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ContentList.cs              | C#                      |         64 |          1 |         14 |         79 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Divert.cs                   | C#                      |        270 |         60 |         74 |        404 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\DivertTarget.cs             | C#                      |        117 |         28 |         28 |        173 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Expression.cs               | C#                      |        210 |         37 |         61 |        308 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ExternalDeclaration.cs      | C#                      |         24 |          1 |          6 |         31 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FlowBase.cs                 | C#                      |        307 |         47 |         86 |        440 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FlowLevel.cs                | C#                      |         10 |          0 |          2 |         12 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\FunctionCall.cs             | C#                      |        176 |         13 |         54 |        243 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Gather.cs                   | C#                      |         39 |          1 |         12 |         52 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\INamedContent.cs            | C#                      |          7 |          0 |          3 |         10 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\IWeavePoint.cs              | C#                      |         12 |          0 |          4 |         16 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Identifier.cs               | C#                      |         11 |          0 |          3 |         14 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\IncludedFile.cs             | C#                      |         15 |          1 |          5 |         21 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Knot.cs                     | C#                      |         25 |          2 |          9 |         36 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\List.cs                     | C#                      |         45 |          0 |          9 |         54 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\ListDefinition.cs           | C#                      |        111 |          1 |         28 |        140 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Number.cs                   | C#                      |         43 |          1 |         10 |         54 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Object.cs                   | C#                      |        279 |         16 |         69 |        364 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Path.cs                     | C#                      |        129 |         27 |         37 |        193 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Return.cs                   | C#                      |         27 |          5 |          8 |         40 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Sequence.cs                 | C#                      |        123 |         43 |         41 |        207 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Stitch.cs                   | C#                      |         11 |          0 |          4 |         15 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Story.cs                    | C#                      |        327 |         84 |         98 |        509 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\StringExpression.cs         | C#                      |         54 |          3 |         14 |         71 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Tag.cs                      | C#                      |         22 |          0 |          6 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Text.cs                     | C#                      |         19 |          0 |          6 |         25 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\TunnelOnwards.cs            | C#                      |         68 |          6 |         19 |         93 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\VariableAssignment.cs       | C#                      |         89 |         10 |         25 |        124 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\VariableReference.cs        | C#                      |         96 |         27 |         30 |        153 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Weave.cs                    | C#                      |        433 |        152 |        146 |        731 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\ParsedHierarchy\Wrap.cs                     | C#                      |         21 |          1 |          7 |         29 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Plugins\Plugin.cs                           | C#                      |         10 |          6 |          6 |         22 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Plugins\PluginManager.cs                    | C#                      |         55 |          0 |         14 |         69 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\Stats.cs                                    | C#                      |         43 |         11 |         14 |         68 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\StringParser\StringParser.cs                | C#                      |        502 |         53 |        131 |        686 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkCompiler\StringParser\StringParserState.cs           | C#                      |        127 |         11 |         34 |        172 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\CallStack.cs                                 | C#                      |        337 |         19 |         88 |        444 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Choice.cs                                    | C#                      |         26 |         21 |         10 |         57 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ChoicePoint.cs                               | C#                      |         72 |          6 |         12 |         90 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Container.cs                                 | C#                      |        278 |          9 |         80 |        367 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ControlCommand.cs                            | C#                      |        138 |         10 |         35 |        183 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\DebugMetadata.cs                             | C#                      |         61 |          4 |         12 |         77 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Divert.cs                                    | C#                      |        124 |          1 |         25 |        150 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Error.cs                                     | C#                      |         10 |         12 |          3 |         25 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Flow.cs                                      | C#                      |         73 |          5 |         15 |         93 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Glue.cs                                      | C#                      |         11 |          0 |          3 |         14 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\INamedContent.cs                             | C#                      |          8 |          0 |          3 |         11 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\InkList.cs                                   | C#                      |        382 |        158 |         75 |        615 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\JsonSerialisation.cs                         | C#                      |        522 |         82 |        119 |        723 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ListDefinition.cs                            | C#                      |         60 |          3 |         13 |         76 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\ListDefinitionsOrigin.cs                     | C#                      |         43 |          2 |          9 |         54 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\NativeFunctionCall.cs                        | C#                      |        365 |         40 |        104 |        509 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Object.cs                                    | C#                      |        178 |         26 |         47 |        251 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Path.cs                                      | C#                      |        225 |          8 |         45 |        278 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Pointer.cs                                   | C#                      |         50 |          8 |         12 |         70 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Profiler.cs                                  | C#                      |        262 |         64 |         69 |        395 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\PushPop.cs                                   | C#                      |         11 |          0 |          3 |         14 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\SearchResult.cs                              | C#                      |         11 |          6 |          2 |         19 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\SimpleJson.cs                                | C#                      |        496 |         24 |        128 |        648 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StatePatch.cs                                | C#                      |         56 |          0 |         11 |         67 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Story.cs                                     | C#                      |      1,626 |        781 |        512 |      2,919 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StoryException.cs                            | C#                      |          9 |         12 |          4 |         25 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StoryState.cs                                | C#                      |        921 |        178 |        243 |      1,342 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\StringJoinExtension.cs                       | C#                      |         21 |          0 |          8 |         29 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Tag.cs                                       | C#                      |         15 |          8 |          5 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Value.cs                                     | C#                      |        308 |         21 |         77 |        406 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariableAssignment.cs                        | C#                      |         20 |          2 |          6 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariableReference.cs                         | C#                      |         40 |          3 |          9 |         52 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\VariablesState.cs                            | C#                      |        286 |         61 |         71 |        418 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\InkLibs\InkRuntime\Void.cs                                      | C#                      |          9 |          0 |          2 |         11 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\LICENCE.md                                                      | Markdown                |          7 |          0 |          6 |         13 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\Ink\README.md                                                       | Markdown                |         92 |          0 |         73 |        165 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\IJsonWrapper.cs                                             | C#                      |         42 |          9 |         10 |         61 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonData.cs                                                 | C#                      |        809 |         16 |        235 |      1,060 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonException.cs                                            | C#                      |         47 |          7 |         12 |         66 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonMapper.cs                                               | C#                      |        756 |         21 |        219 |        996 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonMockWrapper.cs                                          | C#                      |         72 |          8 |         26 |        106 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonReader.cs                                               | C#                      |        362 |          9 |        108 |        479 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\JsonWriter.cs                                               | C#                      |        369 |          8 |        108 |        485 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\Lexer.cs                                                    | C#                      |        731 |         10 |        172 |        913 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\Netstandard15Polyfill.cs                                    | C#                      |         22 |          0 |          2 |         24 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Plugins\LitJson\ParserToken.cs                                              | C#                      |         27 |         12 |          6 |         45 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Bribe.json                                               | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\D1_1_preDialogues.json                                   | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_ComparisonTable.json                              | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_JudgeCompelete.json                               | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_1_PreTalk.json                                      | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_2_ComparisonTable.json                              | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Day2_2_JudgeCompelete.json                               | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Evidence.json                                            | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Resurrection.json                                        | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\SpecialComparisonTable.json                              | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Table.json                                               | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Trial 2.json                                             | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\Trial.json                                               | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Dialogue\TrialCompelete.json                                      | JSON                    |          1 |          0 |          0 |          1 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\Bird.json                                                    | JSON                    |         24 |          0 |          0 |         24 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\DailyDataTest.json                                           | JSON                    |         30 |          0 |          0 |         30 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\InkExcel.json                                                | JSON                    |         47 |          0 |          0 |         47 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\ObituaryDataTest.json                                        | JSON                    |        128 |          0 |          0 |        128 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\PaperWorkDataTest.json                                       | JSON                    |         38 |          0 |          0 |         38 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\TravelPermitDataTest.json                                    | JSON                    |        128 |          0 |          0 |        128 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Resources\Json\npcDataTest.json                                             | JSON                    |        137 |          0 |          0 |        137 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\BribeMoney.cs                                                       | C#                      |         61 |         12 |         14 |         87 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ChatPanelManager.cs                                                 | C#                      |         71 |         11 |         16 |         98 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Data\IndividualData.cs                                              | C#                      |        158 |          0 |         18 |        176 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\EvidenceObject.cs                                                   | C#                      |         12 |          1 |         10 |         23 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\FDWDCard.cs                                                         | C#                      |         85 |          3 |         23 |        111 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\FengduSeal.cs                                                       | C#                      |         36 |          1 |          4 |         41 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\BaseNode.cs                                                    | C#                      |          9 |          0 |          3 |         12 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\EndNode.cs                                                     | C#                      |         32 |          0 |          6 |         38 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\ExaminationNode.cs                                             | C#                      |         41 |          0 |          9 |         50 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowDataManager.cs                                             | C#                      |         98 |          9 |         12 |        119 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowGraph.cs                                                   | C#                      |          6 |          1 |          2 |          9 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\FlowManager.cs                                                 | C#                      |        135 |          7 |         24 |        166 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\OperationNode.cs                                               | C#                      |         27 |          0 |          4 |         31 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\PrepareNode.cs                                                 | C#                      |         45 |          4 |          9 |         58 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\QANode.cs                                                      | C#                      |         28 |          0 |          4 |         32 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\ResultNode.cs                                                  | C#                      |         42 |          2 |          8 |         52 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\StartNode.cs                                                   | C#                      |         27 |          1 |          6 |         34 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Flow\TrialNode.cs                                                   | C#                      |         27 |          0 |          5 |         32 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkInfo.cs                                                  | C#                      |         70 |         18 |         14 |        102 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkInfoManager.cs                                           | C#                      |        154 |         11 |         21 |        186 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\InkInfo\InkPath.cs                                                  | C#                      |          9 |          0 |          3 |         12 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Json\JsonReader.cs                                                  | C#                      |         28 |          2 |          6 |         36 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\BirdManager.cs                                              | C#                      |         91 |          2 |         22 |        115 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\BribeManager.cs                                             | C#                      |         23 |          0 |          7 |         30 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\DialogueManager.cs                                          | C#                      |        267 |         35 |         51 |        353 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\TImeManager.cs                                              | C#                      |         85 |         14 |          9 |        108 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\Manager\TrialNPCManager.cs                                          | C#                      |        106 |         20 |         24 |        150 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\MoneyUI.cs                                                          | C#                      |         51 |          1 |         11 |         63 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ObjectDrag.cs                                                       | C#                      |         32 |         11 |         11 |         54 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\OnObjectScaleChange.cs                                              | C#                      |         21 |          3 |          4 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\RewardSticks.cs                                           | C#                      |        109 |          5 |         15 |        129 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\StickerBox.cs                                             | C#                      |         70 |          3 |         16 |         89 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\RewardBox\StickerListGen.cs                                         | C#                      |         26 |          3 |          5 |         34 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TempryGoHomeTicket.cs                                               | C#                      |         21 |          0 |          7 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\ToggleInkTrigger.cs                                                 | C#                      |         24 |          2 |          4 |         30 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TrailCalculator.cs                                                  | C#                      |         59 |         18 |         10 |         87 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\TrailIDCard.cs                                                      | C#                      |         85 |         14 |         23 |        122 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UIExchangeDrag.cs                                                   | C#                      |         98 |         19 |         30 |        147 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\InfoTabelToggleChanger.cs                                        | C#                      |         63 |          8 |         14 |         85 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\JudgeGavelBtn.cs                                                 | C#                      |         28 |          9 |          9 |         46 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\MouseChanger.cs                                                  | C#                      |        117 |          7 |         11 |        135 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ObjectDragger.cs                                                 | C#                      |        111 |         11 |         18 |        140 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ToggleGroupManager.cs                                            | C#                      |         49 |          3 |          5 |         57 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\ToggleValueChanger.cs                                            | C#                      |         32 |          6 |          9 |         47 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\Scripts\UI\UIController.cs                                                  | C#                      |        111 |         11 |         28 |        150 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs                       | C#                      |         63 |         29 |         37 |        129 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs                  | C#                      |         59 |         37 |         40 |        136 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs                       | C#                      |         65 |          6 |         27 |         98 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs                       | C#                      |         73 |          1 |         19 |         93 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs                       | C#                      |         41 |         26 |         19 |         86 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs                  | C#                      |        198 |         25 |         69 |        292 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs                    | C#                      |         31 |          5 |         16 |         52 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs                    | C#                      |         15 |          0 |          5 |         20 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs                    | C#                      |         23 |          4 |          9 |         36 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs                        | C#                      |         50 |          4 |         15 |         69 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs                | C#                      |         33 |          5 |         14 |         52 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs                      | C#                      |         24 |         15 |         20 |         59 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs                   | C#                      |         95 |         18 |         46 |        159 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs                | C#                      |         19 |          5 |          4 |         28 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs              | C#                      |         37 |          9 |         19 |         65 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs              | C#                      |         91 |         11 |         33 |        135 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs          | C#                      |         93 |          7 |          6 |        106 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs                | C#                      |         56 |          1 |         17 |         74 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs              | C#                      |        170 |         31 |         54 |        255 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs             | C#                      |        409 |         97 |        147 |        653 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs                | C#                      |        100 |         17 |         41 |        158 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs                | C#                      |        250 |        191 |        107 |        548 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs            | C#                      |         96 |          1 |         28 |        125 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs          | C#                      |         55 |          6 |         24 |         85 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs                          | C#                      |         40 |         15 |         28 |         83 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextConsoleSimulator.cs              | C#                      |         79 |         13 |         29 |        121 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs           | C#                      |        135 |         32 |         57 |        224 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs                   | C#                      |         46 |         13 |         21 |         80 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs                 | C#                      |         48 |         13 |         24 |         85 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs                      | C#                      |        105 |         26 |         44 |        175 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs                      | C#                      |         99 |         23 |         39 |        161 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs                      | C#                      |        112 |         29 |         44 |        185 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs                        | C#                      |        112 |         32 |         48 |        192 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs                   | C#                      |         87 |         15 |         43 |        145 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader                         | UnityShader             |        109 |          2 |         33 |        144 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader                               | UnityShader             |        112 |          3 |         31 |        146 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader                                      | UnityShader             |        109 |          2 |         33 |        144 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader                                 | UnityShader             |        243 |          4 |         71 |        318 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader                                     | UnityShader             |        241 |          4 |         66 |        311 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader                          | UnityShader             |        188 |         10 |         50 |        248 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader                          | UnityShader             |        183 |          8 |         50 |        241 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader                              | UnityShader             |         82 |          4 |         21 |        107 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader                                  | UnityShader             |        183 |          8 |         50 |        241 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader                          | UnityShader             |        103 |          8 |         28 |        139 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader                                 | UnityShader             |        122 |          4 |         33 |        159 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_SDF.shader                                         | UnityShader             |        243 |          4 |         71 |        318 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader                                      | UnityShader             |         97 |          0 |         20 |        117 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro.cginc                                            | UnityShader             |         63 |          2 |         20 |         85 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc                                     | UnityShader             |        122 |          2 |         34 |        158 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc                                 | UnityShader             |         62 |         10 |         14 |         86 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc                                    | UnityShader             |         76 |          7 |         19 |        102 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\TextMesh Pro\Sprites\EmojiOne.json                                          | JSON                    |        155 |          0 |          2 |        157 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\Bird.json                                                     | JSON                    |        101 |          0 |          0 |        101 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\InkExcel.json                                                 | JSON                    |        137 |          0 |          0 |        137 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\Obituary.json                                                 | JSON                    |        128 |          0 |          0 |        128 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\npcDataTest.json                                              | JSON                    |        222 |          0 |          0 |        222 |
+| d:\Taores\Project\Netherworld Arbiter demo\Assets\_Assets\Excel\travelPerimit.json                                            | JSON                    |        128 |          0 |          0 |        128 |
+| d:\Taores\Project\Netherworld Arbiter demo\Packages\manifest.json                                                             | JSON                    |         48 |          0 |          1 |         49 |
+| d:\Taores\Project\Netherworld Arbiter demo\Packages\packages-lock.json                                                        | JSON                    |        514 |          0 |          1 |        515 |
+| Total                                                                                                                         |                         |     34,529 |      5,210 |      8,552 |     48,291 |
++-------------------------------------------------------------------------------------------------------------------------------+-------------------------+------------+------------+------------+------------+
